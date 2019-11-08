@@ -14,10 +14,10 @@ import android.widget.Chronometer;
 /**
  * A simple {@link Fragment} subclass.
  */
-public class combustible extends Fragment {
+public class Combustible extends Fragment {
 
 
-    public combustible() {
+    public Combustible() {
         // Required empty public constructor
     }
 
